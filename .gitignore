@@ -18,3 +18,6 @@ env/
 # Временные файлы и папки, созданные Visual Studio Code
 .vscode/
 .vscode-*
+
+# Окружение
+.env
